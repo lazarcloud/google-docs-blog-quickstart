@@ -1,3 +1,6 @@
-./web
-./app/node_modules
-./app/src/content/blog
+web
+app/node_modules
+app/src/content/blog/*
+app/public/images/*
+files/*
+.env

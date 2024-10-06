@@ -5,6 +5,10 @@ import (
 )
 
 func main() {
+	// err := godotenv.Load(".env") //only for local development
+	// if err != nil {
+	// 	panic(err)
+	// }
 	err := engine.RunServer()
 	if err != nil {
 		panic(err)
