@@ -65,6 +65,8 @@ github.com/lazarcloud/google-docs-blog-engine v0.0.0-20241006165556-8aa4982d6f58
 github.com/lazarcloud/google-docs-blog-engine v0.0.0-20241006165556-8aa4982d6f58/go.mod h1:e6PAh4H/HuJSvd9jcYMITORqUv6PPWyjJo9/coCBcvE=
 github.com/lazarcloud/google-docs-blog-engine v0.0.0-20241006171055-f86de796551f h1:2Z1flvPbyPliUK2VNrl+54/FYJrfrkhHrOjLAXO6LI4=
 github.com/lazarcloud/google-docs-blog-engine v0.0.0-20241006171055-f86de796551f/go.mod h1:e6PAh4H/HuJSvd9jcYMITORqUv6PPWyjJo9/coCBcvE=
+github.com/lazarcloud/google-docs-blog-engine v0.0.0-20241008083956-9df494b06db3 h1:nhSBw8pZI3KHuBG2ya6HFbFaptiqPC2k9w0p85dvXCI=
+github.com/lazarcloud/google-docs-blog-engine v0.0.0-20241008083956-9df494b06db3/go.mod h1:e6PAh4H/HuJSvd9jcYMITORqUv6PPWyjJo9/coCBcvE=
 github.com/pmezard/go-difflib v1.0.0/go.mod h1:iKH77koFhYxTK1pcRnkKkqfTogsbg7gZNVY4sRDYZ/4=
 github.com/prometheus/client_model v0.0.0-20190812154241-14fe0d1b01d4/go.mod h1:xMI15A0UPsDsEKsMN9yxemIoYk6Tm2C1GtYGdfGttqA=
 github.com/stretchr/objx v0.1.0/go.mod h1:HFkY916IF+rwdDfMAkV7OtwuqBVzrE8GR6GFx+wExME=
